@@ -241,20 +241,21 @@ li img{width: 100%;}
 
 /*@Home counter section*/
 .counter_section{width: 100%;background: #d74949;float: left;padding: 30px 0;
-svg{width: 12%;float: left;margin-right: 15px;margin-left: 30%;}
+
 h5{color:$text-color-positive;font-family: segoeui;font-size: 18px;font-weight: normal;text-transform: uppercase;}
 .counter{color:$text-color-positive;font-family: segoeuib;font-size: 24px;}
 .stats-grid{margin-top:10px;}
+img{width: 12%;float: left;margin-right: 15px;margin-left: 30%;}
 
-@include mQ(1440px, 1366px){
- svg {width: 15%;margin-left: 20%;}
+@include mQ(1366px){
+ img{width: 15%;margin-left: 20%;}
 }
 @include mQ(1280px){
-	svg{width:14%;margin-left: 24%;}
+	img{width:14%;margin-left: 24%;}
 }
 @include mQ(1024px){
 	h5{font-size: 17px;}
-	svg{width:17%;margin-left: 10%;}
+	img{width:17%;margin-left: 10%;}
 	.counter{font-size: 21px;}
 }
 }

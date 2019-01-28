@@ -841,11 +841,6 @@ input[type='text'], input[type='password'], textarea, input[type='email'], input
   background: #d74949;
   float: left;
   padding: 30px 0; }
-  .counter_section svg {
-    width: 12%;
-    float: left;
-    margin-right: 15px;
-    margin-left: 30%; }
   .counter_section h5 {
     color: #fff;
     font-family: segoeui;
@@ -858,18 +853,23 @@ input[type='text'], input[type='password'], textarea, input[type='email'], input
     font-size: 24px; }
   .counter_section .stats-grid {
     margin-top: 10px; }
-  @media screen and (max-width: 1440px) and (min-width: 1366px) {
-    .counter_section svg {
+  .counter_section img {
+    width: 12%;
+    float: left;
+    margin-right: 15px;
+    margin-left: 30%; }
+  @media screen and (max-width: 1366px) {
+    .counter_section img {
       width: 15%;
       margin-left: 20%; } }
   @media screen and (max-width: 1280px) {
-    .counter_section svg {
+    .counter_section img {
       width: 14%;
       margin-left: 24%; } }
   @media screen and (max-width: 1024px) {
     .counter_section h5 {
       font-size: 17px; }
-    .counter_section svg {
+    .counter_section img {
       width: 17%;
       margin-left: 10%; }
     .counter_section .counter {
