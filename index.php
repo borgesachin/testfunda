@@ -543,18 +543,7 @@
         </div>
       </div>
       <div class="col-md-4">
-      <!-- <?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 52 52" style="enable-background:new 0 0 52 52;" xml:space="preserve">
-<style type="text/css">
-	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
-</style>
-<path class="st0" d="M26.2,51.4L26.2,51.4C12.2,51.4,0.8,40,0.8,26v0c0-14,11.3-25.4,25.4-25.4h0c14,0,25.4,11.3,25.4,25.4v0
-	C51.5,40,40.2,51.4,26.2,51.4z"/>
-<polyline class="st1" points="13.8,25.3 24.4,33 41.8,16.3 "/>
-</svg> -->
-<img src="svg/question_attempted.svg" alt="">
+        <img src="svg/question_attempted.svg" alt="">
         <div class=" stats-grid">
           <div class="stat-info">
              <h5>Questions Attempted</h5>
