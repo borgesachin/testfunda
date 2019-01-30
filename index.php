@@ -6,13 +6,13 @@
       <h2>National Leaders in Online<br>
         MBA test prep for</h2>
         <ul>
-          <li><a href="#">CAT<span>|</spa></a></li>
-          <li><a href="#">XAT<span>|</spa></a></li>
-          <li><a href="#">IIFT<span>|</spa></a></li>
-          <li><a href="#">NMAT<span>|</spa></a></li>
-          <li><a href="#">SNAP<span>|</spa></a></li>
-          <li><a href="#">MHCET<span>|</spa></a></li>
-          <li><a href="#">CMAT<span>|</spa></a></li>
+          <li><a href="#">CAT<span>|</span></a></li>
+          <li><a href="#">XAT<span>|</span></a></li>
+          <li><a href="#">IIFT<span>|</span></a></li>
+          <li><a href="#">NMAT<span>|</span></a></li>
+          <li><a href="#">SNAP<span>|</span></a></li>
+          <li><a href="#">MHCET<span>|</span></a></li>
+          <li><a href="#">CMAT<span>|</span></a></li>
         </ul>
     </div>
   </div>
@@ -208,8 +208,7 @@
                   Test of the Day | Wordlist</p>
   						</li>
   						<li>
-
-
+              
                 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                 	 viewBox="0 0 512.001 512.001" style="enable-background:new 0 0 512.001 512.001;" xml:space="preserve">
                 <circle style="fill:#cd1b1b;" cx="143.453" cy="368.548" r="143.453"/>
@@ -307,7 +306,6 @@
                 	S320.921,357,318.28,357z"/>
 
                 </svg>
-
 
   							<h4>ONLINE PAST <br>TESTS</h4>
   							<p>Check your preparedness on actual
